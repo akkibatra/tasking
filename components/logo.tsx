@@ -17,7 +17,7 @@ const Logo = () => {
         <p
           className={cn("text-lg text-neutral-700 pb-1", poppinsFont.className)}
         >
-          taskify
+          tasking
         </p>
       </div>
     </Link>
